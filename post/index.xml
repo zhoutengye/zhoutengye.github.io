@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 量子波动神教</title>
-    <link>http://zhoutengye.github.io/post/</link>
+    <link>https://zhoutengye.github.io/post/</link>
     <description>Recent content in Posts on 量子波动神教</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
-	<atom:link href="http://zhoutengye.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zhoutengye.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo也很量子波动</title>
-      <link>http://zhoutengye.github.io/post/1/01/01/test/</link>
+      <link>https://zhoutengye.github.io/post/1/01/01/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://zhoutengye.github.io/post/1/01/01/test/</guid>
+      <guid>https://zhoutengye.github.io/post/1/01/01/test/</guid>
       <description>搞了很久，最终似乎终于可以用了。</description>
     </item>
     
     <item>
       <title>硫酸新茶</title>
-      <link>http://zhoutengye.github.io/post/1/01/01/test/</link>
+      <link>https://zhoutengye.github.io/post/1/01/01/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://zhoutengye.github.io/post/1/01/01/test/</guid>
+      <guid>https://zhoutengye.github.io/post/1/01/01/test/</guid>
       <description>Scene 1 川老师拿了一个项目，要开发一种新的茶，于是派了小晨和阿基东渡去向茶道大师James学习如何泡茶，归来期限是5年。 James大师一开始给讲</description>
     </item>
     
