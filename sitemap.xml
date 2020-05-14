@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zhoutengye.github.io/post/1/01/01/qsr/</loc>
-  </url>
-  
-  <url>
     <loc>https://zhoutengye.github.io/categories/</loc>
   </url>
   
@@ -28,6 +24,10 @@
   
   <url>
     <loc>https://zhoutengye.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zhoutengye.github.io/post/1/01/01/qsr/</loc>
   </url>
   
 </urlset>
