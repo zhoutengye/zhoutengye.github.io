@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 量子波动神教</title>
+    <title>Categories on 太白免小屋</title>
     <link>https://zhoutengye.github.io/categories/</link>
-    <description>Recent content in Categories on 量子波动神教</description>
+    <description>Recent content in Categories on 太白免小屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    
-	<atom:link href="https://zhoutengye.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 23 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://zhoutengye.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>量子波动</title>
+      <link>https://zhoutengye.github.io/categories/%E9%87%8F%E5%AD%90%E6%B3%A2%E5%8A%A8/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoutengye.github.io/categories/%E9%87%8F%E5%AD%90%E6%B3%A2%E5%8A%A8/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

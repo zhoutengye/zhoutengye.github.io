@@ -1,14 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 量子波动神教</title>
+    <title>Tags on 太白免小屋</title>
     <link>https://zhoutengye.github.io/tags/</link>
-    <description>Recent content in Tags on 量子波动神教</description>
+    <description>Recent content in Tags on 太白免小屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
+    <lastBuildDate>Sat, 23 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://zhoutengye.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>月更？</title>
+      <link>https://zhoutengye.github.io/tags/%E6%9C%88%E6%9B%B4/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoutengye.github.io/tags/%E6%9C%88%E6%9B%B4/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://zhoutengye.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>量子波动</title>
+      <link>https://zhoutengye.github.io/tags/%E9%87%8F%E5%AD%90%E6%B3%A2%E5%8A%A8/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoutengye.github.io/tags/%E9%87%8F%E5%AD%90%E6%B3%A2%E5%8A%A8/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>一粒</title>
+      <link>https://zhoutengye.github.io/tags/%E4%B8%80%E7%B2%92/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoutengye.github.io/tags/%E4%B8%80%E7%B2%92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>和谐</title>
+      <link>https://zhoutengye.github.io/tags/%E5%92%8C%E8%B0%90/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoutengye.github.io/tags/%E5%92%8C%E8%B0%90/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
