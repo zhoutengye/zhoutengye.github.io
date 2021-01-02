@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zhoutengye.github.io/fire/2021-01-02/</loc>
+    <loc>https://zhoutengye.github.io/post/2021-01-02/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -13,7 +13,7 @@
   </url>
   
   <url>
-    <loc>https://zhoutengye.github.io/fire/</loc>
+    <loc>https://zhoutengye.github.io/post/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,18 +38,8 @@
   </url>
   
   <url>
-    <loc>https://zhoutengye.github.io/tags/%E9%87%8F%E5%AD%90%E6%B3%A2%E5%8A%A8/</loc>
+    <loc>https://zhoutengye.github.io/categories/%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhoutengye.github.io/post/</loc>
-    <lastmod>2020-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhoutengye.github.io/quantum/</loc>
-    <lastmod>2020-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,12 +48,12 @@
   </url>
   
   <url>
-    <loc>https://zhoutengye.github.io/quantum/dragonball/</loc>
+    <loc>https://zhoutengye.github.io/tags/%E6%9C%88%E6%9B%B4/</loc>
     <lastmod>2020-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhoutengye.github.io/tags/%E6%9C%88%E6%9B%B4/</loc>
+    <loc>https://zhoutengye.github.io/tags/%E9%87%8F%E5%AD%90%E6%B3%A2%E5%8A%A8/</loc>
     <lastmod>2020-05-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,27 +78,12 @@
   </url>
   
   <url>
-    <loc>https://zhoutengye.github.io/quantum/aegean/</loc>
-    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zhoutengye.github.io/post/interview/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhoutengye.github.io/quantum/interview/</loc>
-    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zhoutengye.github.io/post/liusuan/</loc>
-    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhoutengye.github.io/quantum/liusuan/</loc>
     <lastmod>2020-05-13T00:00:00+00:00</lastmod>
   </url>
   
