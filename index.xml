@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>疯狂的比特币&amp;测试交互图表</title>
+      <link>https://zhoutengye.github.io/post/2021-01-03/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoutengye.github.io/post/2021-01-03/</guid>
+      <description>使用 plotly 画了个交互的比特币图， 数据来自于 Alpha Vantage。 用的是Alpha Vantage日级别数据，所以没有更新最新的价格，看样子马上要冲着3w5美金去了。 图片略丑，主要是plotly，alpha vantage，pandas，html都不熟，主要折腾怎么出交互图，怎么嵌入Hugo了</description>
+    </item>
+    
+    <item>
       <title>Alpha 2020 （1）: 高于预期，低于预期</title>
       <link>https://zhoutengye.github.io/post/2021-01-02/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>

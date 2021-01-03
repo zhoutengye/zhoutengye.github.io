@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学习 on 太白免小屋</title>
+    <link>https://zhoutengye.github.io/tags/%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in 学习 on 太白免小屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhoutengye.github.io/tags/%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>疯狂的比特币&amp;测试交互图表</title>
+      <link>https://zhoutengye.github.io/post/2021-01-03/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoutengye.github.io/post/2021-01-03/</guid>
+      <description>使用 plotly 画了个交互的比特币图， 数据来自于 Alpha Vantage。 用的是Alpha Vantage日级别数据，所以没有更新最新的价格，看样子马上要冲着3w5美金去了。 图片略丑，主要是plotly，alpha vantage，pandas，html都不熟，主要折腾怎么出交互图，怎么嵌入Hugo了</description>
+    </item>
+    
+  </channel>
+</rss>
