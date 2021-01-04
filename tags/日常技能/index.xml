@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日常技能 on 太白免小屋</title>
+    <link>https://zhoutengye.github.io/tags/%E6%97%A5%E5%B8%B8%E6%8A%80%E8%83%BD/</link>
+    <description>Recent content in 日常技能 on 太白免小屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhoutengye.github.io/tags/%E6%97%A5%E5%B8%B8%E6%8A%80%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搭个网站吧——本站是如何快速建成的</title>
+      <link>https://zhoutengye.github.io/post/tools-hugo/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoutengye.github.io/post/tools-hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
