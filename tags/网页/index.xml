@@ -6,7 +6,16 @@
     <description>Recent content in 网页 on 太白免小屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhoutengye.github.io/tags/%E7%BD%91%E9%A1%B5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhoutengye.github.io/tags/%E7%BD%91%E9%A1%B5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trading view 实时（伪）交互数据</title>
+      <link>https://zhoutengye.github.io/post/2021-01-04/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoutengye.github.io/post/2021-01-04/</guid>
+      <description>调用[TradingView](https://www.tradingview.com/) 的插件， 实现了（伪）实时的股价图。之所以说伪是因为免费版本的更新时效有限（官网也没说延迟多少，就说delayed，不过不重要，就是找着方便）。 这里就设定的日线，随手选了HMA（Hull Moving Av</description>
+    </item>
+    
     <item>
       <title>疯狂的比特币&amp;测试交互图表</title>
       <link>https://zhoutengye.github.io/post/2021-01-03/</link>
