@@ -6,7 +6,16 @@
     <description>Recent content in 十年千万 on 太白免小屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhoutengye.github.io/tags/%E5%8D%81%E5%B9%B4%E5%8D%83%E4%B8%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhoutengye.github.io/tags/%E5%8D%81%E5%B9%B4%E5%8D%83%E4%B8%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>雷公交易系统（二）：双均线，抵扣价，乖离率</title>
+      <link>https://zhoutengye.github.io/post/2021-01-18/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoutengye.github.io/post/2021-01-18/</guid>
+      <description>今天学习了雷公的另一个视频，关于交易系统的 .aspect-ratio { position: relative; width: 100%; height: 0; padding-bottom: 75%; } .aspect-ratio iframe { position: absolute; width: 100%; height: 100%; left: 0; top: 0; } 发现雷公还是公开了一个版本的交易系统代码， 据说收费会员群里有更高级的版本。 双均线的写法和我自己写的比较类似， 主要是配色不同， 我是深色主题。 当然其他的代码写法也些许不同。 现在依旧停留在依葫芦</description>
+    </item>
+    
     <item>
       <title>雷公交易系统（一）：双均线指数TradingView代码</title>
       <link>https://zhoutengye.github.io/post/2021-01-17/</link>
