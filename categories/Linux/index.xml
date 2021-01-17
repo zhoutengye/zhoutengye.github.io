@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>技多不压身 on 太白免小屋</title>
-    <link>https://zhoutengye.github.io/categories/%E6%8A%80%E5%A4%9A%E4%B8%8D%E5%8E%8B%E8%BA%AB/</link>
-    <description>Recent content in 技多不压身 on 太白免小屋</description>
+    <title>Linux on 太白免小屋</title>
+    <link>https://zhoutengye.github.io/categories/Linux/</link>
+    <description>Recent content in Linux on 太白免小屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhoutengye.github.io/categories/%E6%8A%80%E5%A4%9A%E4%B8%8D%E5%8E%8B%E8%BA%AB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhoutengye.github.io/categories/Linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux Mint/Ubuntu 下安装IntelOneAPI和OpenMPI</title>
       <link>https://zhoutengye.github.io/post/intel-oneapi/</link>
