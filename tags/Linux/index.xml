@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on 太白免小屋</title>
+    <link>https://zhoutengye.github.io/tags/Linux/</link>
+    <description>Recent content in Linux on 太白免小屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhoutengye.github.io/tags/Linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Mint/Ubuntu 下安装IntelOneAPI和OpenMPI</title>
+      <link>https://zhoutengye.github.io/post/intel-oneapi/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoutengye.github.io/post/intel-oneapi/</guid>
+      <description>前言 Intel 最近迎来了一波大升级，把以前很多产品整合进了一个叫OneAPI的东西， 而且似乎连license都不提供， 直接就导致了我那一年一续的Intel Parallel Composer 没地方续命了。 稍微摸索了下，成功装上了Intel OneAPI， 还好对于Fortran使用习惯不需要任何更改。 本文测试可用的系统配置</description>
+    </item>
+    
+  </channel>
+</rss>
