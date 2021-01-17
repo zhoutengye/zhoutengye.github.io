@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>交易系统 on 太白免小屋</title>
+    <link>https://zhoutengye.github.io/tags/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/</link>
+    <description>Recent content in 交易系统 on 太白免小屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhoutengye.github.io/tags/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>雷公交易系统（一）：双均线指数TradingView代码</title>
+      <link>https://zhoutengye.github.io/post/2021-01-17/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoutengye.github.io/post/2021-01-17/</guid>
+      <description>算是真正开始学习雷公的知识体系了吧。 雷公的免费资源里讲理念， 具体实现要通过买他的会员得到。 399美元一年的会员费并没有到不可以接受的程度， 只是觉得，公开的内容很多， 很值得学习， 等学习完了再决定要不要去开会员。 此次参考视频如下： .aspect-ratio { position: relative; width: 100%; height: 0; padding-bottom: 75%; } .aspect-ratio iframe { position: absolute; width: 100%; height: 100%; left: 0; top: 0; } 其实</description>
+    </item>
+    
+  </channel>
+</rss>
