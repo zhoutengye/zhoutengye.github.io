@@ -6,7 +6,16 @@
     <description>Recent content in 投资笔记 on 太白免小屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhoutengye.github.io/tags/%E6%8A%95%E8%B5%84%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhoutengye.github.io/tags/%E6%8A%95%E8%B5%84%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>买房收益的计算</title>
+      <link>https://zhoutengye.github.io/post/2021-01-31/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoutengye.github.io/post/2021-01-31/</guid>
+      <description>以前其实也没自己算过贷款利率这些，最近因为在摇号， 就了解了下，并稍微计算了下收益率。 用的是jupyter notebook写了点小程序计算， 也是为了方便改参数看不同结果，已经后面还可以画点图。 代码部分可以忽略不计，公式也可以不看，直接看第二部分的文字即可。 一些计算用的程序 首先简单写</description>
+    </item>
+    
     <item>
       <title>恐慌指数做对冲（一）</title>
       <link>https://zhoutengye.github.io/post/2021-01-29/</link>
