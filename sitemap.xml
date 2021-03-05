@@ -1,270 +1,168 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://zhoutengye.github.io/philosophy/discuss-20210103/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/philosophy/overall/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://zhoutengye.github.io/tags/%E5%BF%83%E9%AD%94/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://zhoutengye.github.io/categories/</loc>
-    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/</loc>
-    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/</loc>
-    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhoutengye.github.io/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhoutengye.github.io/post/2021-03-04/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhoutengye.github.io/categories/%E9%87%8F%E5%AD%90%E6%B3%A2%E5%8A%A8/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/2021-01-31/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/%E5%8D%81%E5%B9%B4%E5%8D%83%E4%B8%87/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhoutengye.github.io/</loc>
-    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/%E6%8A%95%E8%B5%84%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/categories/%E7%90%86%E8%B4%A2%E6%80%9D%E8%80%83/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/categories/%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/2021-01-29/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/2021-01-25/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/%E5%8F%91%E6%95%A3/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/2021-01-24/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhoutengye.github.io/categories/%E9%87%8F%E5%AD%90%E6%B3%A2%E5%8A%A8/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/2021-01-18/</loc>
     <lastmod>2021-01-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/Linux/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/intel-oneapi/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/categories/%E6%8A%80%E5%A4%9A%E4%B8%8D%E5%8E%8B%E8%BA%AB/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/%E8%AE%A1%E7%AE%97%E7%8E%AF%E5%A2%83/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/2021-01-17/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/2021-01-16/</loc>
     <lastmod>2021-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/%E6%8A%A4%E5%9F%8E%E6%B2%B3/</loc>
     <lastmod>2021-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/2021-01-13/</loc>
     <lastmod>2021-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/categories/%E9%93%81%E5%BE%8B/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/2021-01-12/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/2021-01-07/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/2021-01-06/</loc>
     <lastmod>2021-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/%E9%87%8F%E5%AD%90%E6%B3%A2%E5%8A%A8/</loc>
     <lastmod>2021-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/2021-01-04/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/%E7%BD%91%E9%A1%B5/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/philosophy/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/%E4%B8%80%E7%BD%90/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/%E5%93%B2%E5%AD%A6/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/categories/%E5%93%B2%E5%AD%A6/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/2021-01-03/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/%E8%AE%A8%E8%AE%BA/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/2021-01-02/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/dragonball/</loc>
     <lastmod>2020-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/%E6%9C%88%E6%9B%B4/</loc>
     <lastmod>2020-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/%E4%B8%80%E7%B2%92/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tags/%E5%92%8C%E8%B0%90/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/aegean/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/interview/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/post/liusuan/</loc>
     <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/tools/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/archives/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/search/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoutengye.github.io/scientific/</loc>
   </url>
-  
 </urlset>
